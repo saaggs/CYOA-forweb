@@ -2,9 +2,14 @@
 <html>
 <head>
 	<title>Choose Your Own Adventure</title>
+	<script type="text/javascript" src="C:\Users\Bo Jango\Documents\Vampire Vikings\The CYOA Game\Web Version\website\assets\player.js"></script>
 </head>
 <body>
 	<h1>Welcome</h1>
-	<p>Enter Your Name</p>
+	<form id="form" onsubmit="return false;">
+		<p>Enter A Name for Your Warrior</p>
+		<input type="text" id="userInput" placeholder="Oðí the Wise">
+		<input type="submit" onclick="getName()">
+	</form>
 </body>
 </html>
