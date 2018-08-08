@@ -1,0 +1,1 @@
+This project is a Choose Your Own Adventure website, based on books of the similar genre. Players take on the role of a viking warrior, who must protect his homeland from the forces of Hrím.   
